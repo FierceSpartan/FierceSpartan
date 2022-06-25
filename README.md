@@ -16,7 +16,7 @@
 </p>
 
 ## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FierceSpartan&theme=tokyonight)
 
 ## Latest Content
 
