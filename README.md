@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Vishal S.
 - 👀 I’m a DataEngineer
 - I'm Currently working on ElasticSearch
-- ❤️ Stock and Forex
+- ❤️ Stocks and Forex
 - 📺 Tarak Mehta ka Ooltah Chasmah
 - 🎮 PS4 & Switch
 
