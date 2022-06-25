@@ -1,5 +1,5 @@
 # Fun
-- 👋 Hi, I’m @Vishal S.
+
 - 👀 I’m a DataEngineer
 - I'm Currently working on ElasticSearch
 - ❤️ Stocks and Forex
