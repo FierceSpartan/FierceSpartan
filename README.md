@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @Vishal Sakore
+# Fun
+- 👋 Hi, I’m @Vishal S.
 - 👀 I’m a DataEngineer
+- ❤️ Stock and Forex
+- 📺 Tarak Mehta ka Ooltah Chasmah
+- 🎮 PS4 & Switch
+
+## 👋 About me
+
+- Data Consultant at [Tyraa](https://www.tyraa.com/)
+
+## Latest Content
+
+## GitHub Stats
+
+## Connect
 
 
 <!---
