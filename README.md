@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FierceSpartan
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on DataScience projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Vishal Sakore
+- 👀 I’m a DataEngineer
+
 
 <!---
 FierceSpartan/FierceSpartan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
