@@ -1,7 +1,6 @@
 # Fun
 
 - 👀 I’m a DataEngineer
-- At the moment, I'm learning ElasticSearch.
 - ❤️ Stocks and Forex
 - 📺 Tarak Mehta ka Ooltah Chasmah
 - 🎮 PS4 & Switch
