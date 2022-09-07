@@ -1,6 +1,9 @@
 # Fun
 
 - 👀 I’m a DataEngineer
+
+- Python, AWS, Pandas, Numpy, SciPy, Matplotlib, Plotly, Altair, PowerBi, Flask, WordPress. 
+
 - ❤️ Stocks and Forex
 - 📺 Tarak Mehta ka Ooltah Chasmah
 - 🎮 PS4 & Switch
