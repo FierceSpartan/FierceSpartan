@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-- Data Engineer at [Tyraa](https://www.tyraa.com/)
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
